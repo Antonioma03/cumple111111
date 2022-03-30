@@ -1,0 +1,12 @@
+#fondo{
+    background-image: url(globos.gif);
+    background-position: center;
+    background-size: 100%;
+}
+#lienso{
+    border-width: 20px;
+var canvas=new fabric.anvas('lienso');
+   
+    border-style: ridge;
+    border-color: cornflowerblue;
+}
